@@ -49,9 +49,9 @@ near map image.
 
 ## Glossary
 
-subdivision - An area of land containing lots or plots of land for property development
-subdivision status code - The status of the subdivision. Can either be:
-ACTIVE: This subdivision has ongoing construction
-FUTURE: This subdivision will have construction in the near future
-BUILT OUT: This subdivisions construction has been completed
-NearMap: NearMap is one of the provides used at Zonda satellite for our image data.
+subdivision - An area of land containing lots or plots of land for property development <br />
+subdivision status code - The status of the subdivision. Can either be: <br />
+ACTIVE: This subdivision has ongoing construction <br />
+FUTURE: This subdivision will have construction in the near future <br />
+BUILT OUT: This subdivisions construction has been completed <br />
+NearMap: NearMap is one of the provides used at Zonda satellite for our image data. <br />
